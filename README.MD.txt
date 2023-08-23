@@ -1,0 +1,1 @@
+Game berjalan lancar namun tidak mempunyai skor, particle bermasalah, blinking bermasalah
